@@ -12,7 +12,7 @@ Not like other Bots for this Game. This Botnet doesn't simulate packets on it's 
 You will easily earn 20+ DL's per month without even moving a finger. The number really depends on how much farms you have and bots your run at the same time. I earn a lot because I am the owner of an asbud ammount of worlds. I might as well be the growtopian with the most farm worlds right now. The most worlds someone sold me at once were 80-90 full chands. But there surely is some Korean Kid who no-lifed this game and owns way more than 10.000 worlds. No chance for me. I already need like half a minute to scroll through my whole world list, doing it fast.
 
 ## Credits
-- **Me** / **0xD3F** / **DefaultO**. Putting stuff together. Making it what it is.
+- **Me** / **0xD3F** / **DefaultO**. Putting stuff together. Making it what it is. Made 5head workarounds.
 - **Boobon**. TE Coder. Donated me code snippets from our Runescape Bot.
 - [**@TheLeftExit**](https://github.com/TheLeftExit/). Original Creator of [TeslaX](https://github.com/TheLeftExit/TeslaX). He inspired me to start with Kekma in the first place. E-Mailed him like 3 days ago for stuff and he responded. Nice guy.
 - Some [**UnKnoWnCheaTs**](https://www.unknowncheats.me/) Members I had discussions with.
