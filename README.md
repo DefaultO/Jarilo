@@ -11,8 +11,16 @@ Not like other Bots for this Game. This Botnet doesn't simulate packets on it's 
 
 You will easily earn 20+ DL's per month without even moving a finger. The number really depends on how much farms you have and bots your run at the same time. I earn a lot because I am the owner of an asbud ammount of worlds. I might as well be the growtopian with the most farm worlds right now. The most worlds someone sold me at once were 80-90 full chands. But there surely is some Korean Kid who no-lifed this game and owns way more than 10.000 worlds. No chance for me. I already need like half a minute to scroll through my whole world list, doing it fast.
 
+## Credits
+- **Me** / **0xD3F** / **DefaultO**. Putting stuff together. Making it what it is.
+- **Boobon**. TE Coder. Donated me code snippets from our Runescape Bot.
+- [**@TheLeftExit**](https://github.com/TheLeftExit/). Original Creator of [TeslaX](https://github.com/TheLeftExit/TeslaX). He inspired me to start with Kekma in the first place. E-Mailed him like 3 days ago for stuff and he responded. Nice guy.
+- Some [**UnKnoWnCheaTs**](https://www.unknowncheats.me/) Members I had discussions with.
+- **rpm memory** Discord and [Friends](https://nuke.asia/crew/).
+- [**@ma**](https://github.com/mathagod). Gave me the World Data Pointer with what everything started. In a time where autofarmers were shit and I had big plans.
+- **An ass**. For stealing a huge ammount of farmables from me which made me make some additional features. Also he helps me test stuff out by giving me access to some of his worlds.
 
-#### **You want to earn some money? Here's my buying list. Add me on Discord, 0xD3F#1338.**
+## **You want to earn some money? Here's my buying list. Add me on Discord, 0xD3F#1338.**
 - **min. 10,00€** : Inventory Data Pointer. Fuck Minxy/Lace#0001. Stealing Ideas from Kekma but doesn't even want to sell me something he doesn't use for overpay. This 14 year old probably doesn't even have it. I'll add more if you teach me how to find it.
 - **1,00€ each** : Full Chandelier Farm(s). If you got some leftover farms you don't need, you could sell them for wls and sell those wls for more than 1,00€ or reach out to me if you are not interested of all of that hustle.
 - **up to 500,00€** : Some well deved internal/proxy/clientless bot source that can do a basic magplant refill automatically without any human interaction. Possible even harvesting Worlds for that on it's own based off of a list you can edit. This should also include steps for updating the used signatures, offsets, pointers or whatever you use.
