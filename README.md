@@ -21,7 +21,7 @@ You will easily earn 20+ DLs per month without even moving a finger. The number 
 - **An ass**. For stealing a huge amount of farmable from me which made me make some additional features. Also, he helps me test stuff out by giving me access to some of his worlds.
 
 ## **You want to earn some money? Here's my buying list. Add me on Discord, 0xD3F#1338.**
-- **min. 10,00€** : Inventory Data Pointer. Fuck Minxy/Lace#0001. Stealing Ideas from Kekma but doesn't even want to sell me something he doesn't use for overpaying. This 14-year-old probably doesn't even have it. I'll add more if you teach me how to find it.
+- **min. 10,00€** : Inventory Data Pointer. Fuck Minxy/Lace#0001. Stealing Ideas from Kekma but doesn't even want to sell me something he doesn't use for overpaying. This 14-year-old probably doesn't even have it. I'll add more if you teach me how to find it. **Small Update: I only need Inventory Item Amount now. Found the Id's of items in my inventory. Sadly there was no Ammount next to them but random floats. At least that's what Cheat Engine detected.**
 - **1,00€ each** : Full Chandelier Farm(s). If you got some leftover farms you don't need, you could sell them for wls and sell those wls for more than 1,00€ or reach out to me if you are not interested in all of that hustle.
 - **up to 500,00€** : Some well deved internal/proxy/clientless bot source that can do a basic magplant refill automatically without any human interaction. Possible to even harvesting Worlds for that on its own based on a list you can edit. This should also include steps for updating the used signatures, offsets, pointers, or whatever you use.
 
