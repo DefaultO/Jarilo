@@ -14,7 +14,7 @@ You will easily earn 20+ DLs per month without even moving a finger. The number 
 ## Credits
 - **Me** / **0xD3F** / **DefaultO**. Putting stuff together. Making it what it is. Made 5head workarounds.
 - **Boobon**. TE Coder. Donated me code snippets from our Runescape Bot.
-- [**@TheLeftExit**](https://github.com/TheLeftExit/). Original Creator of [TeslaX](https://github.com/TheLeftExit/TeslaX). He inspired me to start with Kekma in the first place. E-Mailed him like 3 days ago for stuff and he responded. Nice guy.
+- [**@TheLeftExit**](https://github.com/TheLeftExit/). Original Creator of [TeslaX](https://github.com/TheLeftExit/TeslaX). He inspired me to start with Kekma in the first place. Nice guy. We reverse the game together.
 - Some [**UnKnoWnCheaTs**](https://www.unknowncheats.me/) Members I had discussions with.
 - **rpm memory** Discord and [Friends](https://nuke.asia/crew/).
 - [**@ma**](https://github.com/mathagod). Gave me the World Data Pointer with what everything started. In a time where autofarmers were shit and I had big plans.
