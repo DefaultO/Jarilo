@@ -3,6 +3,10 @@
 
 This is a bone Repository. I might not release the source of it at all, but rather sell it to some random guy in case Growtopia becomes unplayable and I get tired of it.
 
+<p align="center">
+  Test Showcase: <b>http://www.youtube.com/watch?v=MvTNxjjjpY4</b>
+</p>
+
 Jarila is an external human-like autofarmer for the Game Growtopia. It's the better version of Kekma you could say. Copying technology used in Runescape & Spotify (Click) Bots, this pretty much is fully undetected (and will stay undetected for the rest of its existence). The Jarila Botnet gives you the option to rage and farm non-stop (given you got enough farms) or simulates the life of a real person with sleep time schedules, pauses, "other games you are interested in right now" / not playing gt on some days at all, joining non-farm worlds, replying to player messages, and, and, and. You can configure every single Account, Account Group or Accounts Selection as you like.
 
 > yes this is kekma 2.0 and I added tons of features. - **@0xD3F**
